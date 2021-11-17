@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Modules>
+    <Element>
+        <NameOfElement>CustomerIdField</NameOfElement>
+        <ElementProperty>
+            <Type>xpath</Type>
+            <Value>/html/body/form/table/tbody/tr[2]/td[2]/input</Value>
+        </ElementProperty>
+    </Element>
+    <Element>
+        <NameOfElement>SubmitButton</NameOfElement>
+        <ElementProperty>
+            <Type>xpath</Type>
+            <Value>/html/body/form/table/tbody/tr[3]/td[2]/input[1]</Value>
+        </ElementProperty>
+    </Element>
+    <Element>
+        <NameOfElement>Article</NameOfElement>
+        <ElementProperty>
+            <Type>xpath</Type>
+            <Value>//*[@id="post-152831"]/div[1]</Value>
+        </ElementProperty>
+    </Element>
+</Modules>

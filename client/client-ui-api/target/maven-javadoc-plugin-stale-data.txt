@@ -1,0 +1,75 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/Users/meenakshichauhan/Desktop/ALM_Workspace/ALM-automation/client/client-ui-api/src/main/java;C:/Users/meenakshichauhan/Desktop/ALM_Workspace/ALM-automation/client/client-ui-api/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/meenakshichauhan/Desktop/ALM_Workspace/ALM-automation/client/client-ui-api/target/apidocs'
+-docencoding
+'UTF-8'
+-Xdoclint:none
+-doctitle
+'DRIVEN-Client-ui-api 0.0.1-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/meenakshichauhan/Desktop/ALM_Workspace/ALM-automation/client/client-ui-api/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'DRIVEN-Client-ui-api 0.0.1-SNAPSHOT API'
+com.nagarro.driven.client.ui.api
+com.nagarro.driven.client.ui.api.table
+'C:/Users/meenakshichauhan/Desktop/ALM_Workspace/ALM-automation/client/client-ui-api/src/main/java/com/nagarro/driven/client/ui/api/AndroidActions.java'
+'C:/Users/meenakshichauhan/Desktop/ALM_Workspace/ALM-automation/client/client-ui-api/src/main/java/com/nagarro/driven/client/ui/api/BrowserClient.java'
+'C:/Users/meenakshichauhan/Desktop/ALM_Workspace/ALM-automation/client/client-ui-api/src/main/java/com/nagarro/driven/client/ui/api/Dimension.java'
+'C:/Users/meenakshichauhan/Desktop/ALM_Workspace/ALM-automation/client/client-ui-api/src/main/java/com/nagarro/driven/client/ui/api/Element.java'
+'C:/Users/meenakshichauhan/Desktop/ALM_Workspace/ALM-automation/client/client-ui-api/src/main/java/com/nagarro/driven/client/ui/api/ElementAppium.java'
+'C:/Users/meenakshichauhan/Desktop/ALM_Workspace/ALM-automation/client/client-ui-api/src/main/java/com/nagarro/driven/client/ui/api/ElementMobile.java'
+'C:/Users/meenakshichauhan/Desktop/ALM_Workspace/ALM-automation/client/client-ui-api/src/main/java/com/nagarro/driven/client/ui/api/Elements.java'
+'C:/Users/meenakshichauhan/Desktop/ALM_Workspace/ALM-automation/client/client-ui-api/src/main/java/com/nagarro/driven/client/ui/api/ElementWindows.java'
+'C:/Users/meenakshichauhan/Desktop/ALM_Workspace/ALM-automation/client/client-ui-api/src/main/java/com/nagarro/driven/client/ui/api/History.java'
+'C:/Users/meenakshichauhan/Desktop/ALM_Workspace/ALM-automation/client/client-ui-api/src/main/java/com/nagarro/driven/client/ui/api/Interactable.java'
+'C:/Users/meenakshichauhan/Desktop/ALM_Workspace/ALM-automation/client/client-ui-api/src/main/java/com/nagarro/driven/client/ui/api/Location.java'
+'C:/Users/meenakshichauhan/Desktop/ALM_Workspace/ALM-automation/client/client-ui-api/src/main/java/com/nagarro/driven/client/ui/api/Prompt.java'
+'C:/Users/meenakshichauhan/Desktop/ALM_Workspace/ALM-automation/client/client-ui-api/src/main/java/com/nagarro/driven/client/ui/api/table/Column.java'
+'C:/Users/meenakshichauhan/Desktop/ALM_Workspace/ALM-automation/client/client-ui-api/src/main/java/com/nagarro/driven/client/ui/api/table/Row.java'
+'C:/Users/meenakshichauhan/Desktop/ALM_Workspace/ALM-automation/client/client-ui-api/src/main/java/com/nagarro/driven/client/ui/api/table/Table.java'
+'C:/Users/meenakshichauhan/Desktop/ALM_Workspace/ALM-automation/client/client-ui-api/src/main/java/com/nagarro/driven/client/ui/api/UiClient.java'
+'C:/Users/meenakshichauhan/Desktop/ALM_Workspace/ALM-automation/client/client-ui-api/src/main/java/com/nagarro/driven/client/ui/api/UiClientAppium.java'
+'C:/Users/meenakshichauhan/Desktop/ALM_Workspace/ALM-automation/client/client-ui-api/src/main/java/com/nagarro/driven/client/ui/api/UiClientMobile.java'
+'C:/Users/meenakshichauhan/Desktop/ALM_Workspace/ALM-automation/client/client-ui-api/src/main/java/com/nagarro/driven/client/ui/api/UiClientWindows.java'
+'C:/Users/meenakshichauhan/Desktop/ALM_Workspace/ALM-automation/client/client-ui-api/src/main/java/com/nagarro/driven/client/ui/api/UnexpectedClientException.java'
+'C:/Users/meenakshichauhan/Desktop/ALM_Workspace/ALM-automation/client/client-ui-api/src/main/java/com/nagarro/driven/client/ui/api/Window.java'
+'C:/Users/meenakshichauhan/Desktop/ALM_Workspace/ALM-automation/client/client-ui-api/src/main/java/com/nagarro/driven/client/ui/api/WindowFrame.java'
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\client\client-ui-api\src\main\java = 1636733884210
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\client\client-ui-api\target\generated-sources\annotations = 1637144211691
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\client\client-ui-api\target\apidocs\allclasses-index.html = 1637144215339
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\client\client-ui-api\target\apidocs\allclasses.html = 1637144215354
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\client\client-ui-api\target\apidocs\allpackages-index.html = 1637144215343
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\client\client-ui-api\target\apidocs\constant-values.html = 1637144214912
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\client\client-ui-api\target\apidocs\deprecated-list.html = 1637144215350
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\client\client-ui-api\target\apidocs\element-list = 1637144214837
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\client\client-ui-api\target\apidocs\help-doc.html = 1637144215370
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\client\client-ui-api\target\apidocs\index-all.html = 1637144215330
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\client\client-ui-api\target\apidocs\index.html = 1637144215362
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\client\client-ui-api\target\apidocs\member-search-index.js = 1637144215310
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\client\client-ui-api\target\apidocs\member-search-index.zip = 1637144215326
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\client\client-ui-api\target\apidocs\overview-summary.html = 1637144215367
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\client\client-ui-api\target\apidocs\overview-tree.html = 1637144215240
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\client\client-ui-api\target\apidocs\package-search-index.js = 1637144215274
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\client\client-ui-api\target\apidocs\package-search-index.zip = 1637144215301
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\client\client-ui-api\target\apidocs\script.js = 1637144215379
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\client\client-ui-api\target\apidocs\search.js = 1637144215387
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\client\client-ui-api\target\apidocs\serialized-form.html = 1637144214921
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\client\client-ui-api\target\apidocs\stylesheet.css = 1637144215376
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\client\client-ui-api\target\apidocs\type-search-index.js = 1637144215302
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\client\client-ui-api\target\apidocs\type-search-index.zip = 1637144215304

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Modules>
+    <Element>
+        <NameOfElement>SearchField</NameOfElement>
+        <ElementProperty>
+            <Type>xpath</Type>
+            <Value>//*[@id="tsf"]/div[2]/div[1]/div[1]/div/div[2]/input</Value>
+        </ElementProperty>
+    </Element>
+    <Element>
+        <NameOfElement>SearchButton</NameOfElement>
+        <ElementProperty>
+            <Type>xpath</Type>
+            <Value>//*[@id="tsf"]/div[2]/div[1]/div[2]/div[2]/div[2]/center/input[1]</Value>
+        </ElementProperty>
+    </Element>
+    <Element>
+        <NameOfElement>ContentOfPDF</NameOfElement>
+        <ElementProperty>
+            <Type>xpath</Type>
+            <Value>//span[contains(text(),"A Simple PDF File")]</Value>
+        </ElementProperty>
+    </Element>
+</Modules>

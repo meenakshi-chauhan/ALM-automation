@@ -1,0 +1,27 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk-11.0.8\bin\javadoc.exe" @options @packages"
+D:\A2A.DRIVEN JAVA\Selenium+API+Appium Package\A2A.DrivenJava\client\client-selenium\target\apidocs\allclasses-index.html = 1625740494808
+D:\A2A.DRIVEN JAVA\Selenium+API+Appium Package\A2A.DrivenJava\client\client-selenium\target\apidocs\allclasses.html = 1625740494819
+D:\A2A.DRIVEN JAVA\Selenium+API+Appium Package\A2A.DrivenJava\client\client-selenium\target\apidocs\allpackages-index.html = 1625740494809
+D:\A2A.DRIVEN JAVA\Selenium+API+Appium Package\A2A.DrivenJava\client\client-selenium\target\apidocs\constant-values.html = 1625740494638
+D:\A2A.DRIVEN JAVA\Selenium+API+Appium Package\A2A.DrivenJava\client\client-selenium\target\apidocs\deprecated-list.html = 1625740494816
+D:\A2A.DRIVEN JAVA\Selenium+API+Appium Package\A2A.DrivenJava\client\client-selenium\target\apidocs\element-list = 1625740494600
+D:\A2A.DRIVEN JAVA\Selenium+API+Appium Package\A2A.DrivenJava\client\client-selenium\target\apidocs\help-doc.html = 1625740494831
+D:\A2A.DRIVEN JAVA\Selenium+API+Appium Package\A2A.DrivenJava\client\client-selenium\target\apidocs\index-all.html = 1625740494800
+D:\A2A.DRIVEN JAVA\Selenium+API+Appium Package\A2A.DrivenJava\client\client-selenium\target\apidocs\index.html = 1625740494823
+D:\A2A.DRIVEN JAVA\Selenium+API+Appium Package\A2A.DrivenJava\client\client-selenium\target\apidocs\member-search-index.js = 1625740494790
+D:\A2A.DRIVEN JAVA\Selenium+API+Appium Package\A2A.DrivenJava\client\client-selenium\target\apidocs\member-search-index.zip = 1625740494797
+D:\A2A.DRIVEN JAVA\Selenium+API+Appium Package\A2A.DrivenJava\client\client-selenium\target\apidocs\options = 1625740491902
+D:\A2A.DRIVEN JAVA\Selenium+API+Appium Package\A2A.DrivenJava\client\client-selenium\target\apidocs\overview-summary.html = 1625740494827
+D:\A2A.DRIVEN JAVA\Selenium+API+Appium Package\A2A.DrivenJava\client\client-selenium\target\apidocs\overview-tree.html = 1625740494750
+D:\A2A.DRIVEN JAVA\Selenium+API+Appium Package\A2A.DrivenJava\client\client-selenium\target\apidocs\package-search-index.js = 1625740494786
+D:\A2A.DRIVEN JAVA\Selenium+API+Appium Package\A2A.DrivenJava\client\client-selenium\target\apidocs\package-search-index.zip = 1625740494790
+D:\A2A.DRIVEN JAVA\Selenium+API+Appium Package\A2A.DrivenJava\client\client-selenium\target\apidocs\packages = 1625740491919
+D:\A2A.DRIVEN JAVA\Selenium+API+Appium Package\A2A.DrivenJava\client\client-selenium\target\apidocs\script.js = 1625740494836
+D:\A2A.DRIVEN JAVA\Selenium+API+Appium Package\A2A.DrivenJava\client\client-selenium\target\apidocs\search.js = 1625740494838
+D:\A2A.DRIVEN JAVA\Selenium+API+Appium Package\A2A.DrivenJava\client\client-selenium\target\apidocs\serialized-form.html = 1625740494644
+D:\A2A.DRIVEN JAVA\Selenium+API+Appium Package\A2A.DrivenJava\client\client-selenium\target\apidocs\stylesheet.css = 1625740494832
+D:\A2A.DRIVEN JAVA\Selenium+API+Appium Package\A2A.DrivenJava\client\client-selenium\target\apidocs\type-search-index.js = 1625740494790
+D:\A2A.DRIVEN JAVA\Selenium+API+Appium Package\A2A.DrivenJava\client\client-selenium\target\apidocs\type-search-index.zip = 1625740494790

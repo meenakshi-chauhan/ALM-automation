@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Modules>
+    <Element>
+        <NameOfElement>SearchField</NameOfElement>
+        <ElementProperty>
+            <Type>name</Type>
+            <Value>q</Value>
+        </ElementProperty>
+    </Element>
+</Modules>

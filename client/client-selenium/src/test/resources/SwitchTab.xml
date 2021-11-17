@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Modules>
+    <Element>
+        <NameOfElement>ClickHere</NameOfElement>
+        <ElementProperty>
+            <Type>xpath</Type>
+            <Value>/html/body/p/a</Value>
+        </ElementProperty>
+    </Element>
+    <Element>
+        <NameOfElement>EmailId</NameOfElement>
+        <ElementProperty>
+            <Type>name</Type>
+            <Value>emailid</Value>
+        </ElementProperty>
+    </Element>
+    <Element>
+        <NameOfElement>SubmitButton</NameOfElement>
+        <ElementProperty>
+            <Type>name</Type>
+            <Value>btnLogin</Value>
+        </ElementProperty>
+    </Element>
+    <Element>
+        <NameOfElement>TextBox</NameOfElement>
+        <ElementProperty>
+            <Type>xpath</Type>
+            <Value>/html/body/table/tbody/tr[6]/td/h3</Value>
+        </ElementProperty>
+    </Element>
+</Modules>

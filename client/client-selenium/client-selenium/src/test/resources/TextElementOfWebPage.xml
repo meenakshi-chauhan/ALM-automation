@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Modules>
+    <Element>
+        <NameOfElement>ClickHere</NameOfElement>
+        <ElementProperty>
+            <Type>xpath</Type>
+            <Value>/html/body/p/a</Value>
+        </ElementProperty>
+    </Element>
+</Modules>

@@ -1,0 +1,51 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/Users/meenakshichauhan/Desktop/ALM_Workspace/ALM-automation/module-ALM-tests/ALM-pageobjects/src/main/java;C:/Users/meenakshichauhan/Desktop/ALM_Workspace/ALM-automation/module-ALM-tests/ALM-pageobjects/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/meenakshichauhan/Desktop/ALM_Workspace/ALM-automation/module-ALM-tests/ALM-pageobjects/target/apidocs'
+-docencoding
+'UTF-8'
+-Xdoclint:none
+-doctitle
+'ALM-pageobjects 0.0.1-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/meenakshichauhan/Desktop/ALM_Workspace/ALM-automation/module-ALM-tests/ALM-pageobjects/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'ALM-pageobjects 0.0.1-SNAPSHOT API'
+au.com.alm.pageobjects
+'C:/Users/meenakshichauhan/Desktop/ALM_Workspace/ALM-automation/module-ALM-tests/ALM-pageobjects/src/main/java/au/com/alm/pageobjects/LoginPage.java'
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\module-ALM-tests\ALM-pageobjects\src\main\java = 1637127126741
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\module-ALM-tests\ALM-pageobjects\target\generated-sources\annotations = 1637144249399
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\module-ALM-tests\ALM-pageobjects\target\apidocs\allclasses-index.html = 1637144251236
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\module-ALM-tests\ALM-pageobjects\target\apidocs\allclasses.html = 1637144251259
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\module-ALM-tests\ALM-pageobjects\target\apidocs\allpackages-index.html = 1637144251240
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\module-ALM-tests\ALM-pageobjects\target\apidocs\constant-values.html = 1637144251115
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\module-ALM-tests\ALM-pageobjects\target\apidocs\deprecated-list.html = 1637144251256
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\module-ALM-tests\ALM-pageobjects\target\apidocs\element-list = 1637144251085
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\module-ALM-tests\ALM-pageobjects\target\apidocs\help-doc.html = 1637144251309
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\module-ALM-tests\ALM-pageobjects\target\apidocs\index-all.html = 1637144251228
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\module-ALM-tests\ALM-pageobjects\target\apidocs\index.html = 1637144251296
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\module-ALM-tests\ALM-pageobjects\target\apidocs\member-search-index.js = 1637144251221
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\module-ALM-tests\ALM-pageobjects\target\apidocs\member-search-index.zip = 1637144251224
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\module-ALM-tests\ALM-pageobjects\target\apidocs\overview-tree.html = 1637144251166
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\module-ALM-tests\ALM-pageobjects\target\apidocs\package-search-index.js = 1637144251188
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\module-ALM-tests\ALM-pageobjects\target\apidocs\package-search-index.zip = 1637144251209
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\module-ALM-tests\ALM-pageobjects\target\apidocs\script.js = 1637144251318
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\module-ALM-tests\ALM-pageobjects\target\apidocs\search.js = 1637144251322
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\module-ALM-tests\ALM-pageobjects\target\apidocs\stylesheet.css = 1637144251315
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\module-ALM-tests\ALM-pageobjects\target\apidocs\type-search-index.js = 1637144251211
+C:\Users\meenakshichauhan\Desktop\ALM_Workspace\ALM-automation\module-ALM-tests\ALM-pageobjects\target\apidocs\type-search-index.zip = 1637144251219

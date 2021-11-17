@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Modules>
+    <Element>
+        <NameOfElement>SearchTextBox</NameOfElement>
+        <ElementProperty>
+            <Type>id</Type>
+            <Value>searchInput</Value>
+        </ElementProperty>
+    </Element>
+</Modules>

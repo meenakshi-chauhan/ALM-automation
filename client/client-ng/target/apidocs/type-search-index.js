@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.nagarro.driven.client.ng","l":"NgDriver"},{"p":"com.nagarro.driven.client.ng","l":"NgDriverFactory"},{"p":"com.nagarro.driven.client.ng","l":"NgWebLocatorLoader"},{"p":"com.nagarro.driven.client.ng.screenshot","l":"Screenshot"}]

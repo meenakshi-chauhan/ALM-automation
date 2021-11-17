@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<project
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
+  xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>au.com.alm</groupId>
+    <artifactId>reporter-parent</artifactId>
+    <version>${revision}</version>
+  </parent>
+  <artifactId>extent-reporter</artifactId>
+  <name>DRIVEN-Reporter-extend</name>
+  <version>${revision}</version>
+
+  <dependencies>
+    <dependency>
+      <groupId>au.com.alm</groupId>
+      <artifactId>driven-core</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>com.aventstack</groupId>
+      <artifactId>extentreports</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>commons-io</groupId>
+      <artifactId>commons-io</artifactId>
+    </dependency>
+  </dependencies>
+</project>

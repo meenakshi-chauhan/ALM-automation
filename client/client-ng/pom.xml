@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<project
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://maven.apache.org/POM/4.0.0"
+        xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <name>DRIVEN-Client-ng</name>
+    <parent>
+        <artifactId>client-parent</artifactId>
+        <groupId>au.com.alm</groupId>
+        <version>${revision}</version>
+    </parent>
+    <artifactId>client-ng</artifactId>
+    <version>${revision}</version>
+
+    <dependencies>
+        <dependency>
+            <groupId>au.com.alm</groupId>
+            <artifactId>driven-core</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.paulhammant</groupId>
+            <artifactId>ngwebdriver</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>au.com.alm</groupId>
+            <artifactId>client-selenium</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>io.github.bonigarcia</groupId>
+            <artifactId>webdrivermanager</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>io.selendroid</groupId>
+            <artifactId>selendroid-client</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>au.com.alm</groupId>
+            <artifactId>client-ui-api</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>au.com.alm</groupId>
+            <artifactId>extent-reporter</artifactId>
+        </dependency>
+    </dependencies>
+
+</project>

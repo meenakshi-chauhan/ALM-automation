@@ -1,0 +1,9 @@
+<aspectj>
+  <aspects>
+    <aspect name="com.nagarro.driven.core.reporting.api.KeywordReportingImpl"/>
+  </aspects>
+  <weaver options="-verbose">
+    <!-- weave anything -->
+    <include within="*"/>
+  </weaver>
+</aspectj>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Modules>
+    <Element>
+        <NameOfElement>Frame</NameOfElement>
+        <ElementProperty>
+            <Type>xpath</Type>
+            <Value>//span/strong[contains(text(),"Feel free to contact us for more details")]</Value>
+        </ElementProperty>
+    </Element>
+</Modules>
