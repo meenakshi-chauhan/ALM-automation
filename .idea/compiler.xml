@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="driven-core" />
+        <module name="client-ui-api" />
+        <module name="cucumberTestng-runner" />
+        <module name="extent-reporter" />
+        <module name="client-ng" />
+        <module name="testng-runner" />
+        <module name="ALM-testdata" />
+        <module name="ALM-bdd-tests" />
+        <module name="ALM-pageobjects" />
+        <module name="client-selenium" />
+        <module name="ALM-objectrepository" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="alm-bdd-tests" target="1.5" />
+      <module name="client-jdbc" target="11" />
+      <module name="client-rest" target="11" />
+      <module name="client-rest-assured" target="11" />
+      <module name="database" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

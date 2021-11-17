@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/client/client-ng/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/client-selenium/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/client-selenium/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/client-ui-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/driven-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/driven-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module-ALM-tests/ALM-bdd-tests/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module-ALM-tests/ALM-objectrepository/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module-ALM-tests/ALM-pageobjects/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module-ALM-tests/ALM-testdata/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module-ALM-tests/ALM-testdata/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reporter/extent-reporter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reporter/extent-reporter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/runner/cucumber-testng-runner/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/runner/testng-runner/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/runner/testng-runner/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

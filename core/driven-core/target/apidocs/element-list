@@ -1,0 +1,15 @@
+com.nagarro.driven.core
+com.nagarro.driven.core.config
+com.nagarro.driven.core.constant
+com.nagarro.driven.core.driver
+com.nagarro.driven.core.driver.api
+com.nagarro.driven.core.guice
+com.nagarro.driven.core.localization
+com.nagarro.driven.core.localization.models
+com.nagarro.driven.core.reporting.api
+com.nagarro.driven.core.reporting.screenshot
+com.nagarro.driven.core.rest.api
+com.nagarro.driven.core.util
+com.nagarro.driven.core.webdriver
+com.nagarro.driven.core.weblocator.file.util
+com.nagarro.driven.core.weblocator.model
